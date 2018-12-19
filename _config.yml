@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Soy un estudiante de maestría, aunque aún no tengo título 
   de licenciado. En este blog iré posteado algunas de las temas
   que me interesan.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "abeyance-junkie/" # the subpath of your site, e.g. /blog
 url: "https://ivanfeliciano.github.io/abeyance-junkie/" # the base hostname & protocol for your site, e.g. http://example.com
 # Social
 githubUsername: ivanfeliciano
