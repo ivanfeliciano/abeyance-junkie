@@ -56,8 +56,7 @@ sigmoide, definida como sigue
 
 $$f(u) = \frac{1}{1 + e^{-u}}$$
 
-\centering
- \[scale=0.30\]/assets/neuron.png
+![scale=0.30\](/assets/neuron.png)
 
 El término perceptrón a menudo se utiliza para referirse a cualquier red
 de nodos *feedforward* con respuestas como la ecuación
@@ -76,7 +75,6 @@ se cuentan como una capa activa ya que no realizan algún tipo de
 procesamiento. Las redes con una sola capa son menos poderosas que las
 multicapas por lo que sus aplicaciones están muy limitadas.
 
-\centering
 ![Una red neuronal feedforward completamente conectada con múltiples
 capas.[]{label="fig:mpl"}](/assets/mlp.png)
 
@@ -406,9 +404,8 @@ $\mathbf{W}_2$ como la matriz de $k \times m$ con elementos
 $w_{ij}^{(2)}$. El vector de entrada es de tamaño $n$, y lo definimos
 como $\mathbf{x} = (x_1, \dots, x_n)$.
 
-\centering
 ![Arquitectura de la red propuesta para la notación matricial de la
-retropropagación.](mat_struct.png)
+retropropagación.](/assets/mat_struct.png)
 
 [\[fig:mat\_mult\_struct\]]{#fig:mat_mult_struct
 label="fig:mat_mult_struct"}
