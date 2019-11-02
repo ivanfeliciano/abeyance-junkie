@@ -2,6 +2,7 @@
 layout: post
 title:  "Redes neuronales artificiales"
 date:   mar dic 18 17:10:04 CST 2018
+use_math: true
 ---
 
 
